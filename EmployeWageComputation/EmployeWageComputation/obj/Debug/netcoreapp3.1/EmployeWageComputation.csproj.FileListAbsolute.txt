@@ -1,0 +1,13 @@
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 9\EmployeWageComputation\EmployeWageComputation\bin\Debug\netcoreapp3.1\EmployeWageComputation.exe
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 9\EmployeWageComputation\EmployeWageComputation\bin\Debug\netcoreapp3.1\EmployeWageComputation.deps.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 9\EmployeWageComputation\EmployeWageComputation\bin\Debug\netcoreapp3.1\EmployeWageComputation.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 9\EmployeWageComputation\EmployeWageComputation\bin\Debug\netcoreapp3.1\EmployeWageComputation.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 9\EmployeWageComputation\EmployeWageComputation\bin\Debug\netcoreapp3.1\EmployeWageComputation.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 9\EmployeWageComputation\EmployeWageComputation\bin\Debug\netcoreapp3.1\EmployeWageComputation.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 9\EmployeWageComputation\EmployeWageComputation\obj\Debug\netcoreapp3.1\EmployeWageComputation.csproj.AssemblyReference.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 9\EmployeWageComputation\EmployeWageComputation\obj\Debug\netcoreapp3.1\EmployeWageComputation.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 9\EmployeWageComputation\EmployeWageComputation\obj\Debug\netcoreapp3.1\EmployeWageComputation.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 9\EmployeWageComputation\EmployeWageComputation\obj\Debug\netcoreapp3.1\EmployeWageComputation.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 9\EmployeWageComputation\EmployeWageComputation\obj\Debug\netcoreapp3.1\EmployeWageComputation.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 9\EmployeWageComputation\EmployeWageComputation\obj\Debug\netcoreapp3.1\EmployeWageComputation.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\day 9\EmployeWageComputation\EmployeWageComputation\obj\Debug\netcoreapp3.1\EmployeWageComputation.genruntimeconfig.cache
